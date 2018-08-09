@@ -1,0 +1,26 @@
+{
+    "title": "SS-Panel教程 | SPhard",
+    "description": "SS-Panel教程 | SPhard",
+    "author": "SPhard",
+    "language": "zh-hans",
+    "root": ".",
+
+    "plugins": [
+        "donate",
+        "disqus"
+    ],
+    
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "https://sphard.com/images/wechatpay.jpg",
+            "alipay": "https://sphard.com/images/alipay.jpg",
+            "title": "",
+            "button": "打赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "disqus": {
+            "shortName": "sphard"
+        }
+    }
+}
